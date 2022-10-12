@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<h1> Hello there! I'm Nikhila K S.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
@@ -14,7 +14,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
 
- [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
+ [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/Nikhila-KS/Nikhila-KS/raw/main/Mohit%20Kumar%20CV.pdf)
  
    
  <br>  
@@ -37,7 +37,7 @@
 
 ## 👀 &nbsp;Profile Vist
 
-<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg">
+<img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 <br>
 
 ## 📝 &nbsp; Blog
@@ -90,13 +90,15 @@
 ## ⚙️ &nbsp;GitHub Analytics
  
  <p align="left">
-<a href="https://github.com/m0hit-kumar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0hit-kumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0hit-kumar&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Nikhila-KS">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhila-KS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
  
 ## Badges
 [![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=mohitkumar)](https://holopin.io/@mohitkumar)
+
+
 
 
