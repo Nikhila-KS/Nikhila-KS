@@ -37,7 +37,7 @@
 
 
 
-## 👀 &nbsp;Profile Vist
+## 👀 &nbsp;Profile Visit
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 <br>
