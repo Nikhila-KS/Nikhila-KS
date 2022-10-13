@@ -37,7 +37,7 @@
 
 
 
-## 👀 &nbsp;Profile Visit
+## 👀 &nbsp;Profile Visits
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 <br>
@@ -46,11 +46,11 @@
 
 [<img src="src/bigfootcode.png"/>](https://www.bigfootcode.ga/)-->
 
-<br/> 
-
-
+<br/> -->
 
 ## 🛠 &nbsp;Languages and Tools
+
+
 <!-- 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -72,7 +72,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
   -->
- 
+ ## 🛠 &nbsp;Languages and Tools
  <p align="left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
