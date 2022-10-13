@@ -5,28 +5,28 @@
  <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="400" height="320" />
 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
-- 🌱 I’m currently learning ... AR, ML
+- 🌱 I’m currently practicing ... DSA 
 - 👯 I’m looking to collaborate on ... Open Source
 - ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
  
- <br>
+<!--  <br>
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
 
  [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/Nikhila-KS/Nikhila-KS/raw/main/Mohit%20Kumar%20CV.pdf)
  
    
- <br>  
+ <br>   -->
  
 ## 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/mohit-kumar-profile/">
+<a href="https://www.linkedin.com/in/know-nikhila-k-s/">
 <img   align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="30px" src="src/linkedin.png" /></a>
 
-<a  href="https://www.instagram.com/mohitkumar.buzz/">
-<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="30px" src="src/instagram.png" /></a>
-<a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" >
+<!-- <a  href="https://www.instagram.com/mohitkumar.buzz/">
+<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="30px" src="src/instagram.png" /></a> -->
+<a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nikhila122btcse21@igdtuw.ac.in" >
 <img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="32px" src="src/gmail.png" /></a>
 
 <br/><br>
@@ -39,12 +39,12 @@
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 <br>
-
+<!-- 
 ## 📝 &nbsp; Blog
 
-[<img src="src/bigfootcode.png"/>](https://www.bigfootcode.ga/)
+[<img src="src/bigfootcode.png"/>](https://www.bigfootcode.ga/)-->
 
-<br/>
+<br/> 
 
 
 
@@ -79,10 +79,6 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </p>
  
  <br/>
@@ -96,8 +92,8 @@
 </a>
 </p>
  
-## Badges
-[![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=mohitkumar)](https://holopin.io/@mohitkumar)
+<!--## Badges
+[![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=mohitkumar)](https://holopin.io/@mohitkumar)-->
 
 
 
