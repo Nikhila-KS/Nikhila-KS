@@ -1,7 +1,7 @@
 <h1> Hello there! I'm Nikhila K S.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+;Fixing+bugs+😅+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  <img align="right"  alt="GIF" src="https://drive.google.com/uc?export=view&id=1vdlLHhWHhxOwl5JA0zsJ8Ccge1cFhgSq" width="410" height="320" />
 
