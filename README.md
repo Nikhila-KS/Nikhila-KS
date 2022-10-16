@@ -94,9 +94,8 @@
 </a>
 </p>
  
-<!--## Badges
-[![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=mohitkumar)](https://holopin.io/@mohitkumar)-->
-
+## Badges
+[![@nikhilaks's Holopin board](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
 
 
 
