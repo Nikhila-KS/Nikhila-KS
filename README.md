@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
 - 🌱 I’m currently practicing ... DSA 
+- 👩🏽‍💻 Exploring web development ...
 - 👯 I’m looking to collaborate on ... Open Source
 - ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
@@ -21,13 +22,14 @@
    
  <br>   -->
  
+## ⭐ &nbsp; About Me
+My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really describe myself as a person who is enthusiast, always curious and open to learn new stuff. I have a versatile skill-set, a lot of integrity and a willingness to go to the extra mile to complete tasks before time. Am a good Team-player who can also work independently. Am currently working on my flutter development skills, web development skills and practicing Data Structures & Algorithms.
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/know-nikhila-k-s/">
-<img   align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="30px" src="src/linkedin.png" /></a>
+<img   align="left" alt="holisitc_developer |  Nikhila LinkedIn" width="30px" src="src/linkedin.png" /></a>
 
-<!-- <a  href="https://www.instagram.com/mohitkumar.buzz/">
-<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="30px" src="src/instagram.png" /></a> -->
 <a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nikhila122btcse21@igdtuw.ac.in" >
 <img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="32px" src="src/gmail.png" /></a>
 
