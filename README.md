@@ -5,7 +5,7 @@
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  <img align="right"  alt="GIF" src="https://drive.google.com/uc?export=view&id=1vdlLHhWHhxOwl5JA0zsJ8Ccge1cFhgSq" width="410" height="320" />
  
-- 🔭 I’m currently working on ... Mobile App development(In flutter)
+- 🔭 Exploring Flutter (App development)
 - 🌱 I’m currently practicing ... DSA 
 - 👩🏽‍💻 Exploring web development ...
 - 👯 I’m looking to collaborate on ... Open Source
