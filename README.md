@@ -1,18 +1,17 @@
 <h1> Hello there! I'm Nikhila K S.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
- 
+<!--  <h1>$${\color{orange}Hello\space \color{red} there! \space\color{green}I'm\space \color{red}Nikhila\space \color{red}K S}$$</h1> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+;Fixing+bugs+😅+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  <img align="right"  alt="GIF" src="https://drive.google.com/uc?export=view&id=1vdlLHhWHhxOwl5JA0zsJ8Ccge1cFhgSq" width="410" height="320" />
-
-
+ 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
 - 🌱 I’m currently practicing ... DSA 
 - 👩🏽‍💻 Exploring web development ...
 - 👯 I’m looking to collaborate on ... Open Source
 - ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
- 
+
 <!--  <br>
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
@@ -98,6 +97,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
  
 ## Badges
 [![@nikhilaks's Holopin board](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
+
 
 
 
