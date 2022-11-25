@@ -91,7 +91,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
   <p align="left">
 <a href="https://github.com/Nikhila-KS">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhila-KS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
  
