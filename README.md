@@ -9,7 +9,7 @@
 - 🌱 I’m currently practicing ... DSA 
 - 👩🏽‍💻 Exploring web development ...
 - 👯 I’m looking to collaborate on ... Open Source
-- ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
+- ✨ I Believe in Wonder...
 
 
 <!--  <br>
@@ -24,7 +24,7 @@
 ## ⭐ &nbsp; About Me
 My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really describe myself as a person who is enthusiast, always curious and open to learn new stuff. I have a versatile skill-set, a lot of integrity and a willingness to go to the extra mile to complete tasks before time. Am a good Team-player who can also work independently. Am currently working on my flutter development skills, web development skills and practicing Data Structures & Algorithms.
 
-## 🤝🏻 &nbsp;Connect with Me
+<!-- ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/know-nikhila-k-s/">
 <img   align="left" alt="holisitc_developer |  Nikhila LinkedIn" width="30px" src="src/linkedin.png" /></a>
@@ -32,7 +32,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nikhila122btcse21@igdtuw.ac.in" >
 <img align="left" alt="Nikhila Gmail" width="32px" src="src/gmail.png" /></a>
 <br/><br>
-<br/>
+<br/> -->
 
 
 
@@ -72,7 +72,21 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
   -->
- ## 🛠 &nbsp;Languages and Tools
+  
+  ## 🛠 Languages and Tools
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+
+## 📱&nbsp;Let's connect
+[![General badge](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikhila_ks_)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhila122btcse21@igdtuw.ac.in)
+[![General badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/know-nikhila-k-s/)
+
+<!--  ## 🛠 &nbsp;Languages and Tools
  <p align="left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -82,10 +96,9 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
- 
- <br/>
+  -->
  <br>
-<h2> &nbsp;Github Info ⚙️</h2>
+<h2> &nbsp;⚙️Github Info </h2>
 <details>	
   <summary><b>⚡GitHub Analytics</b></summary>
 
