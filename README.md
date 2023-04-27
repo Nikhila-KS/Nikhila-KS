@@ -1,7 +1,7 @@
-<h1> Hello there! I'm Nikhila K S.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+<h1>🤠 Hello there! I'm Nikhila K S <img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
 <!--  <h1>$${\color{orange}Hello\space \color{red} there! \space\color{green}I'm\space \color{red}Nikhila\space \color{red}K S}$$</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+;Fixing+bugs+🤠+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
  <img align="right"  alt="GIF" src="https://drive.google.com/uc?export=view&id=1vdlLHhWHhxOwl5JA0zsJ8Ccge1cFhgSq" width="410" height="320" />
  
@@ -102,7 +102,13 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
   -->
  <br>
 <h2> &nbsp;⚙️Github Info </h2>
-<details>	
+<b>⚡GitHub Analytics</b><br>
+<a href="https://github.com/Nikhila-KS">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhila-KS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<br>
+<!-- <details>	
   <summary><b>⚡GitHub Analytics</b></summary>
 
  <p>
@@ -111,9 +117,10 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
   <img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</details>
+</details> -->
 
 <details>
+<br><br>
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhila-KS&" alt="Streak" /></p>
 </details>
@@ -121,9 +128,11 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <details>
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nikhila-KS&margin-w=5" alt="Nikhila-KS" /></a> </p>
-</details>
+</details> 
+<br>
 
-## Badges
+## 🎖️Badges
+#### Hacktoberfest'22<br><rb>
 [![@nikhilaks's Holopin board](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
 
 <br>
