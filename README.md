@@ -132,9 +132,14 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <br>
 
 ## 🎖️Badges
-#### Hacktoberfest'22<br><rb>
+#### Hacktoberfest'22<br>
 [![@nikhilaks's Holopin board](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
 
+<br>
+ ## 🐍 eating my contributions 👀 
+ <p>
+   <img src="https://github.com/Nikhila-KS/Nikhila-KS/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 <br>
 <hr>
 <p align="center">
