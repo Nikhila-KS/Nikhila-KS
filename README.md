@@ -6,8 +6,8 @@
  <img align="right"  alt="GIF" src="https://drive.google.com/uc?export=view&id=1vdlLHhWHhxOwl5JA0zsJ8Ccge1cFhgSq" width="410" height="320" />
  
 - 🔭 Exploring Flutter (App development)
+- 👩🏽‍💻 Exploring Machine Learning ...
 - 🌱 I’m currently practicing ... DSA 
-- 👩🏽‍💻 Exploring web development ...
 - 👯 I’m looking to collaborate on ... Open Source
 - ✨ I Believe in Wonder...
 
@@ -41,17 +41,14 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 <br>
-<!-- 
+
 ## 📝 &nbsp; Blog
 
-[<img src="src/bigfootcode.png"/>](https://www.bigfootcode.ga/)-->
-
-<br/> -->
-
-## 🛠 &nbsp;Languages and Tools
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhila_ks)
 
 
 <!-- 
+## 🛠 &nbsp;Languages and Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -89,6 +86,18 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhila122btcse21@igdtuw.ac.in)
 [![General badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/know-nikhila-k-s/)
 
+
+## ⚙️Github Info 
+### <b>⚡GitHub Analytics</b><br>
+<a href="https://github.com/Nikhila-KS">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhila-KS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
+</a><br>
+
+### <b>🔥 Github Streaks</b> <br>
+<p align="start"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhila-KS&" alt="Streak" /></p>
+
+<!-- ======================= comments below ==================================================================================================-->
 <!--  ## 🛠 &nbsp;Languages and Tools
  <p align="left>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -100,14 +109,6 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
   -->
- <br>
-<h2> &nbsp;⚙️Github Info </h2>
-<b>⚡GitHub Analytics</b><br>
-<a href="https://github.com/Nikhila-KS">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhila-KS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="183em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhila-KS&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-<br>
 <!-- <details>	
   <summary><b>⚡GitHub Analytics</b></summary>
 
@@ -119,17 +120,18 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 </p>
 </details> -->
 
-<details>
+<!-- <details>
 <br><br>
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhila-KS&" alt="Streak" /></p>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nikhila-KS&margin-w=5" alt="Nikhila-KS" /></a> </p>
-</details> 
+</details>  -->
 <br>
+<!-- ======================================================================================================================= -->
 
 ## 🎖️Badges
 #### Hacktoberfest'22 <br>
