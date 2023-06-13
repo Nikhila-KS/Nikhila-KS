@@ -135,7 +135,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 
 ## 🎖️Badges
 #### Hacktoberfest'22 <br>
-[![@nikhilaks's Holopin board](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
+[![An image of @nikhilaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
 
 
 ## 🐍 eating my contributions 👀 
