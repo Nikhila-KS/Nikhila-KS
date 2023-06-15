@@ -5,8 +5,6 @@
 <!-- <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="420" height="300" />-->
 
  <img align="right"  alt="GIF" src="https://github.com/Nikhila-KS/Nikhila-KS/assets/100426366/c469cccd-6cae-4eac-a1a3-ebc9fcaf409c" width="410" height="330" />
-
-
  
 - 🔭 Exploring Flutter (App development)
 - 👩🏽‍💻 Exploring Machine Learning ...
@@ -45,8 +43,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 <br>
 
-## 📝 &nbsp; Blog
-
+## 📝 &nbsp; Blog  
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhila_ks)
 
 
@@ -72,7 +69,8 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
   -->
-  
+
+
   ## 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
@@ -84,10 +82,12 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 <!-- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
 <!-- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 
+
 ## 📱&nbsp;Let's connect
 [![General badge](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikhila_ks_)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhila122btcse21@igdtuw.ac.in)
 [![General badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/know-nikhila-k-s/)
+
 
 
 ## ⚙️Github Info 
