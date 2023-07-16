@@ -41,6 +41,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 ## 👀 &nbsp;Profile Visits
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
+
 <br>
 
 ## 📝 &nbsp; Blog  
@@ -141,11 +142,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 [![An image of @nikhilaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
 
 
-## 🐍 eating my contributions 👀 
- <p>
-   <img src="https://github.com/Nikhila-KS/Nikhila-KS/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<br>
+
 <hr>
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
