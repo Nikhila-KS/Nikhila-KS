@@ -141,6 +141,13 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 #### Hacktoberfest'22 <br>
 [![An image of @nikhilaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
 
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
 
 
 <hr>
