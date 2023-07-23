@@ -1,4 +1,6 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1>😎Hello there! I'm Nikhila K S <img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
+
 <!--  <h1>$${\color{orange}Hello\space \color{red} there! \space\color{green}I'm\space \color{red}Nikhila\space \color{red}K S}$$</h1> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Working+on+various+projects+...+;Fixing+bugs+..+;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
@@ -101,6 +103,8 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 ### <b>🔥 Github Streaks</b> <br>
 <p align="start"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhila-KS&" alt="Streak" /></p>
 
+## 🚀Keep Moving Forward
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
 <!-- ======================= comments below ==================================================================================================-->
 <!--  ## 🛠 &nbsp;Languages and Tools
  <p align="left>
@@ -151,8 +155,10 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 
 
 <hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp; <br>
    <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>
 
