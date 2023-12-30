@@ -25,7 +25,9 @@
  <br>   -->
  
 ## ⭐ &nbsp; About Me
-My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really describe myself as a person who is enthusiast, always curious and open to learn new stuff. I have a versatile skill-set, a lot of integrity and a willingness to go to the extra mile to complete tasks before time. Am a good Team-player who can also work independently. Am currently working on my flutter development skills, web development skills and practicing Data Structures & Algorithms.
+<!--My name is Nikhila, am a third year BTech CSE student from IGDTUW. I'd really describe myself as a person who is enthusiast, always curious and open to learn new stuff. I have a versatile skill-set, a lot of integrity and a willingness to go to the extra mile to complete tasks before time. Am a good Team-player who can also work independently. Am currently working on my flutter development skills, web development skills and practicing Data Structures & Algorithms.-->
+
+Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for curiosity and thrive on the rush of learning. At the moment, I'm immersing myself in the boundless world of Flutter, uncovering the potential of machine learning, and honing the art of mastering Data Structures & Algorithms.
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me
 
@@ -39,7 +41,6 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 
 
 
-
 ## 👀 &nbsp;Profile Visits
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
@@ -48,6 +49,7 @@ My name is Nikhila, am a second year BTech CSE student from IGDTUW. I'd really d
 
 ## 📝 &nbsp; Blog  
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhila_ks)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhila.nikhila.k.s)
 
 
 <!-- 
