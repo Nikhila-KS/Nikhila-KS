@@ -27,7 +27,7 @@
 ## ⭐ &nbsp; About Me
 <!--My name is Nikhila, am a third year BTech CSE student from IGDTUW. I'd really describe myself as a person who is enthusiast, always curious and open to learn new stuff. I have a versatile skill-set, a lot of integrity and a willingness to go to the extra mile to complete tasks before time. Am a good Team-player who can also work independently. Am currently working on my flutter development skills, web development skills and practicing Data Structures & Algorithms.-->
 
-Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for curiosity and thrive on the rush of learning. At the moment, I'm immersing myself in the boundless world of Flutter, uncovering the potential of machine learning, and honing the art of mastering Data Structures & Algorithms.
+Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for curiosity and thrive on the rush of learning. At the moment, I'm immersing myself in the boundless world of Flutter, uncovering the potential of machine learning.
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me
 
@@ -42,6 +42,7 @@ Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for 
 
 
 ## 👀 &nbsp;Profile Visits
+<br>
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 
@@ -143,9 +144,9 @@ Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for 
 <br>
 <!-- ======================================================================================================================= -->
 
-## 🎖️Badges
+<!--## 🎖️Badges
 #### Hacktoberfest'22 <br>
-[![An image of @nikhilaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks)
+[![An image of @nikhilaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilaks)](https://holopin.io/@nikhilaks) -->
 
 ## 🐍 Contribution snake
 
