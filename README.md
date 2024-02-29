@@ -27,7 +27,7 @@
 ## ⭐ &nbsp; About Me
 <!--My name is Nikhila, am a third year BTech CSE student from IGDTUW. I'd really describe myself as a person who is enthusiast, always curious and open to learn new stuff. I have a versatile skill-set, a lot of integrity and a willingness to go to the extra mile to complete tasks before time. Am a good Team-player who can also work independently. Am currently working on my flutter development skills, web development skills and practicing Data Structures & Algorithms.-->
 
-Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for curiosity and thrive on the rush of learning. At the moment, I'm immersing myself in the boundless world of Flutter, uncovering the potential of machine learning.
+Hello! I’m Nikhila, a third-year computer science undergraduate student at Indira Gandhi Delhi Technical University for Women (IGDTUW). My curiosity drives me, and I find joy in continuous learning. Currently, I’m exploring Flutter and delving into the exciting possibilities of machine learning.
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me
 
@@ -46,7 +46,7 @@ Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for 
 
 <img src="https://profile-counter.glitch.me/%7BNikhila-KS%7D/count.svg">
 
-<br>
+
 
 ## 📝 &nbsp; Blog  
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nikhila_ks)
@@ -77,9 +77,10 @@ Hey there, I'm Nikhila, a third-year BTech CSE student at IGDTUW. I'm wired for 
   -->
 
 
-  ## 🛠 Languages and Tools
+ <!-- ## 🛠 Languages and Tools 
 
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> -->
+
 <!--  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
  
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  -->
